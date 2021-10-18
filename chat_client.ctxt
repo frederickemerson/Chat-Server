@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=chat_client
+comment1.params=name\ clientSocket
+comment1.target=void\ sendClientName(java.lang.String,\ java.net.Socket)
+comment2.params=clientSocket
+comment2.target=java.lang.String\ getData(java.net.Socket)
+comment3.params=people
+comment3.target=int\ numberOnline(java.lang.String)
+comment4.params=people
+comment4.target=void\ peopleOnline(java.lang.String)
+comment5.params=data\ clientSocket\ userName
+comment5.target=void\ process(java.lang.String,\ java.net.Socket,\ java.lang.String)
+comment6.params=
+comment6.target=void\ main()
+comment7.params=clientSocket\ byWhom
+comment7.target=void\ process(java.net.Socket,\ java.lang.String)
+numComments=8
